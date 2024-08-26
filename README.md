@@ -1,8 +1,8 @@
-## Hello! My name is Simon. 😊
+## Hello! My name is Simon (he/him). 
 I am a first year computer science student at Purdue West-Lafayette. 
-I enjoy triathlon, watching soccer and learning new things. 
+I enjoy triathlon 🏊🚴🏃, watching soccer 🏟️ and learning new things 🤔. 
 
-You can reach me at ✉️ sbosslet@purdue.edu ✉️.
+✉️ You can reach me at sbosslet@purdue.edu.
 
 <!--
 **simpatbos/simpatbos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
