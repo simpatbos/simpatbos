@@ -1,5 +1,5 @@
 ## Hello! My name is Simon (he/him). 
-I am a first year computer science student at Purdue West-Lafayette. 
+I'm a first year computer science student at Purdue West-Lafayette. 
 I enjoy triathlon, watching soccer and learning new things. 
 
 I'm interested in online misinformation and its effects on the real world.
