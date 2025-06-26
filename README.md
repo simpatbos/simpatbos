@@ -1,10 +1,8 @@
 ## Hello! My name is Simon (he/him). 
-I'm a first year computer science student at Purdue West-Lafayette. 
-I enjoy triathlon, watching soccer and learning new things. 
-
-I'm interested in online misinformation and its effects on the real world.
+I'm a computer science student at Purdue West-Lafayette. 
 
 ✉️ You can reach me at sbosslet@purdue.edu.
+🔗 Find out more about me at [simpatbos.com](https://simpatbos.com)
 
 <!--
 **simpatbos/simpatbos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
