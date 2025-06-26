@@ -1,7 +1,7 @@
 ## Hello! My name is Simon (he/him). 
 I'm a computer science student at Purdue West-Lafayette. 
 
-✉️ You can reach me at sbosslet@purdue.edu.
+✉️ You can reach me at sbosslet@purdue.edu.<br>
 🔗 Find out more about me at [simpatbos.com](https://simpatbos.com)
 
 <!--
